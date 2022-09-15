@@ -1,0 +1,45 @@
+body{
+    background-image: url("bg.jpg");
+}
+.container{
+    text-align: center;
+    height: 200px;
+    width: 300px;
+    padding: 80px 20px;
+    margin: 100px 520px;
+    background-color: aqua;
+    box-shadow: 8px -8px 10px blue;
+    border-radius: 20px;
+}
+.digit{
+    box-shadow: 5px -5px 8px grey;
+    border-radius: 8px;
+    background-color: blanchedalmond;
+    padding: 7px;
+    margin: 2px;
+    font-weight: bold;
+}
+span{
+    font-size: 1.7rem;
+}
+.start{
+    box-shadow: 5px -5px 8px grey;
+    margin: 70px 85px 30px;
+    background-color: green;
+    border-radius: 10px;
+    border: none;
+    padding: 7px 14px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.reset{
+    box-shadow: 5px -5px 8px grey;
+    background-color: orange;
+    border: none;
+    border-radius: 10px;
+    padding: 7px 14px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
