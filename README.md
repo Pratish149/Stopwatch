@@ -1,2 +1,2 @@
 # Stopwatch
-### Hosted Link: https://stopwatch-ps.netlify.app/
+### Hosted Link: https://stopwatch-by-ps.netlify.app/
